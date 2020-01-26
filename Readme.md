@@ -3,4 +3,6 @@ Teste de Github para iniciantes
 
 Fazendo um segundo teste para o Git.
 
-Adicionando uma outro linha para o teste.
+Adicionando uma outra linha para o teste.
+
+Novamente adicionando uma outra linha de teste.
